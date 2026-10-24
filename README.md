@@ -1,5 +1,7 @@
 # Análise de Correlação Linear de Pearson e Projeção de Dados — Brasil (1990–2025)
 
+**Autores:** **Thiago Allan** e **Everson Diogo**
+
 Estudo de **Estatística Aplicada** sobre o tratamento de séries históricas oficiais do **Banco Mundial (*World Development Indicators — WDI*)**, cálculo algébrico e computacional do **Coeficiente de Correlação Linear de Pearson ($r$)**, testes de hipóteses ($t$ de Student e valor-$p$), diagramas de dispersão e projeções por regressão linear simples ($\hat{Y} = b_0 + b_1 X$).
 
 ---

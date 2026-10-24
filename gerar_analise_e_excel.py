@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Projeto de Estatística Aplicada: Tratamento, Correlação de Pearson e Projeção de Dados
+Autores: Thiago Allan e Everson Diogo
 Base de Dados: World Development Indicators (WDI) - Brasil (World Bank)
 Bibliotecas: pandas, numpy, scipy, matplotlib, seaborn, openpyxl
 """
@@ -416,7 +417,7 @@ def construir_aba_analise_excel(
     ws.row_dimensions[1].height = 28
 
     ws.merge_cells("A2:I3")
-    ws["A2"] = f"LITERATURA / REFERÊNCIA OFICIAL DOS DADOS E DO DIAGRAMA DE DISPERSÃO:\n{literatura_ref}"
+    ws["A2"] = f"AUTORES: Thiago Allan e Everson Diogo | LITERATURA / REFERÊNCIA DOS DADOS E DO DIAGRAMA:\n{literatura_ref}"
     ws["A2"].fill = amarelo_claro
     ws["A2"].font = fonte_subtitulo
     ws["A2"].alignment = Alignment(horizontal="left", vertical="center", wrap_text=True)
