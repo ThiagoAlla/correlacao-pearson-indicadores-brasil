@@ -1,0 +1,11 @@
+Indicador,Taxa_Fertilidade_Filhos_Mulher,Expectativa_Vida_Anos,Mortalidade_Infantil_por_1000,Taxa_Desemprego_perc,Indice_Gini,Pobreza_Extrema_perc,Taxa_Alfabetizacao_Adultos_perc,PIB_per_capita_PPP_USD,Uso_Energia_kg_Petroleo_pc,Consumo_Energia_Eletrica_kWh_pc
+Taxa_Fertilidade_Filhos_Mulher,1.0,-0.9703,0.9943,-0.3792,0.815,0.9655,-0.9334,-0.8895,-0.9265,-0.9232
+Expectativa_Vida_Anos,-0.9703,1.0,-0.9717,0.2963,-0.8389,-0.9718,0.8288,0.9121,0.9685,0.9617
+Mortalidade_Infantil_por_1000,0.9943,-0.9717,1.0,-0.3989,0.7847,0.9733,-0.9132,-0.8684,-0.929,-0.918
+Taxa_Desemprego_perc,-0.3792,0.2963,-0.3989,1.0,-0.0749,-0.2076,0.2219,0.0124,0.1763,0.1215
+Indice_Gini,0.815,-0.8389,0.7847,-0.0749,1.0,0.8283,-0.7655,-0.8529,-0.8546,-0.8667
+Pobreza_Extrema_perc,0.9655,-0.9718,0.9733,-0.2076,0.8283,1.0,-0.7938,-0.9027,-0.9566,-0.9457
+Taxa_Alfabetizacao_Adultos_perc,-0.9334,0.8288,-0.9132,0.2219,-0.7655,-0.7938,1.0,0.872,0.7985,0.9192
+PIB_per_capita_PPP_USD,-0.8895,0.9121,-0.8684,0.0124,-0.8529,-0.9027,0.872,1.0,0.9407,0.975
+Uso_Energia_kg_Petroleo_pc,-0.9265,0.9685,-0.929,0.1763,-0.8546,-0.9566,0.7985,0.9407,1.0,0.9838
+Consumo_Energia_Eletrica_kWh_pc,-0.9232,0.9617,-0.918,0.1215,-0.8667,-0.9457,0.9192,0.975,0.9838,1.0
